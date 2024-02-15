@@ -1,0 +1,11 @@
+{
+    "name": "mission-0-thiago-tavares",
+    "version": "1.0.0",
+    "description": "Mission Ready DevOps - Mission Zero",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Thiago Tavares",
+    "license": "ISC"
+}
